@@ -7,7 +7,7 @@
   * post
 
 * リクエストヘッダ
-  * {@@トークン@@}
+  * Set-Cookie: dtirest_session={認証トークン}
   
 * リクエストBODY
   * json
