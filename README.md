@@ -1,2 +1,2 @@
-# DTI REST API ‚ðì‚Á‚Ä‚Ý‚é
-* [ƒ†[ƒU[ƒƒ“ƒe/”FØ](./dti-api-auth/README.md)
+# DTI REST API ã‚’ä½œã£ã¦ã¿ã‚‹
+* [ãƒ¦ãƒ¼ã‚¶ãƒ¼ãƒ¡ãƒ³ãƒ†/èªè¨¼](./dti-api-auth/README.md)

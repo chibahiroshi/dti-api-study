@@ -1,18 +1,18 @@
-# ƒ†[ƒU[î•ñŽæ“¾(ŒÂ•Ê)
+# ãƒ¦ãƒ¼ã‚¶ãƒ¼æƒ…å ±å–å¾—(å€‹åˆ¥)
 * url
   ```
   /user/{user_id}
   ```
-* ƒƒ\ƒbƒh
+* ãƒ¡ã‚½ãƒƒãƒ‰
   * get
 
-* ƒŠƒNƒGƒXƒgƒwƒbƒ_
-  * Set-Cookie: dtirest_session={”FØƒg[ƒNƒ“}
+* ãƒªã‚¯ã‚¨ã‚¹ãƒˆãƒ˜ãƒƒãƒ€
+  * Set-Cookie: dtirest_session={èªè¨¼ãƒˆãƒ¼ã‚¯ãƒ³}
   
-* ƒŠƒNƒGƒXƒgBODY
-  * ‚È‚µ
+* ãƒªã‚¯ã‚¨ã‚¹ãƒˆBODY
+  * ãªã—
 
-* ƒŒƒXƒ|ƒ“ƒX
+* ãƒ¬ã‚¹ãƒãƒ³ã‚¹
   * json
   ```json
   {
@@ -26,8 +26,8 @@
   }
   ```
 
-* ƒXƒe[ƒ^ƒX  
-  |ƒR[ƒh|ƒXƒe[ƒ^ƒX|
+* ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹  
+  |ã‚³ãƒ¼ãƒ‰|ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹|
   |---|---|
   |200|OK|
   |500|NG|

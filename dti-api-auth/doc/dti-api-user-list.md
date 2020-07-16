@@ -1,15 +1,15 @@
-# ƒ†[ƒU[î•ñŽæ“¾(ˆê——)
+# ãƒ¦ãƒ¼ã‚¶ãƒ¼æƒ…å ±å–å¾—(ä¸€è¦§)
 * url
   ```
   /users
   ```
-* ƒƒ\ƒbƒh
+* ãƒ¡ã‚½ãƒƒãƒ‰
   * get
 
-* ƒŠƒNƒGƒXƒgƒwƒbƒ_
-  * Set-Cookie: dtirest_session={”FØƒg[ƒNƒ“}
+* ãƒªã‚¯ã‚¨ã‚¹ãƒˆãƒ˜ãƒƒãƒ€
+  * Set-Cookie: dtirest_session={èªè¨¼ãƒˆãƒ¼ã‚¯ãƒ³}
 
-* ƒŠƒNƒGƒXƒgBODY
+* ãƒªã‚¯ã‚¨ã‚¹ãƒˆBODY
   * json
   ```json
   {
@@ -24,8 +24,8 @@
       }
   }
   ```
-* ƒŒƒXƒ|ƒ“ƒX
-  * json@(”z—ñ)
+* ãƒ¬ã‚¹ãƒãƒ³ã‚¹
+  * jsonã€€(é…åˆ—)
   ```json
     {
         "users": [
@@ -46,8 +46,8 @@
         ]
     }
   ```
-* ƒXƒe[ƒ^ƒX
-  |ƒR[ƒh|ƒXƒe[ƒ^ƒX|
+* ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹
+  |ã‚³ãƒ¼ãƒ‰|ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹|
   |---|---|
   |200|OK|
   |500|NG|

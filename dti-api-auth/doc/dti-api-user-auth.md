@@ -1,24 +1,24 @@
-# ”FØ
+# èªè¨¼
 * url
   ```
   /auth
   ```
   
-* ƒƒ\ƒbƒh
+* ãƒ¡ã‚½ãƒƒãƒ‰
   * get
 
-* ƒŠƒNƒGƒXƒgƒwƒbƒ_
-  * Set-Cookie: dtirest_session={”FØƒg[ƒNƒ“}  
-  ¦‰æ–Ê‚©‚ç‚ÌƒŠƒNƒGƒXƒg‚©‚çŽó‚¯Žæ‚Á‚ÄƒZƒbƒg‚·‚é
+* ãƒªã‚¯ã‚¨ã‚¹ãƒˆãƒ˜ãƒƒãƒ€
+  * Set-Cookie: dtirest_session={èªè¨¼ãƒˆãƒ¼ã‚¯ãƒ³}  
+  â€»ç”»é¢ã‹ã‚‰ã®ãƒªã‚¯ã‚¨ã‚¹ãƒˆã‹ã‚‰å—ã‘å–ã£ã¦ã‚»ãƒƒãƒˆã™ã‚‹
   
-* ƒŠƒNƒGƒXƒgBODY
-  * ‚È‚µ
+* ãƒªã‚¯ã‚¨ã‚¹ãƒˆBODY
+  * ãªã—
 
-* ƒŒƒXƒ|ƒ“ƒX
-  * ƒXƒe[ƒ^ƒXƒR[ƒh‚Ì‚Ý
+* ãƒ¬ã‚¹ãƒãƒ³ã‚¹
+  * ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã‚³ãƒ¼ãƒ‰ã®ã¿
 
-* ƒXƒe[ƒ^ƒX  
-    |ƒR[ƒh|ƒXƒe[ƒ^ƒX|
+* ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹  
+    |ã‚³ãƒ¼ãƒ‰|ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹|
     |---|---|
     |200|OK|
     |500|NG|

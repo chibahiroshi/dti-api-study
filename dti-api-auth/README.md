@@ -1,8 +1,8 @@
-# ƒ†[ƒU[ƒƒ“ƒe/”FØ API
-* [ƒƒOƒCƒ“](./doc/dti-api-user-login.md)
-* [”FØ](./doc/dti-api-user-auth.md)
-* [ƒ†[ƒU[î•ñæ“¾(ˆê——)](./doc/dti-api-user-list.md)
-* [ƒ†[ƒU[î•ñæ“¾(ŒÂ•Ê)](./doc/dti-api-user-get.md)
-* [ƒ†[ƒU[î•ñ“o˜^](./doc/dti-api-user-create.md)
-* [ƒ†[ƒU[î•ñXV](./doc/dti-api-user-update.md)
-* [ƒ†[ƒU\î•ñíœ](./doc/dti-api-user-delete.md)
+# ãƒ¦ãƒ¼ã‚¶ãƒ¼ãƒ¡ãƒ³ãƒ†/èªè¨¼ API
+* [ãƒ­ã‚°ã‚¤ãƒ³](./doc/dti-api-user-login.md)
+* [èªè¨¼](./doc/dti-api-user-auth.md)
+* [ãƒ¦ãƒ¼ã‚¶ãƒ¼æƒ…å ±å–å¾—(ä¸€è¦§)](./doc/dti-api-user-list.md)
+* [ãƒ¦ãƒ¼ã‚¶ãƒ¼æƒ…å ±å–å¾—(å€‹åˆ¥)](./doc/dti-api-user-get.md)
+* [ãƒ¦ãƒ¼ã‚¶ãƒ¼æƒ…å ±ç™»éŒ²](./doc/dti-api-user-create.md)
+* [ãƒ¦ãƒ¼ã‚¶ãƒ¼æƒ…å ±æ›´æ–°](./doc/dti-api-user-update.md)
+* [ãƒ¦ãƒ¼ã‚¶â€•æƒ…å ±å‰Šé™¤](./doc/dti-api-user-delete.md)

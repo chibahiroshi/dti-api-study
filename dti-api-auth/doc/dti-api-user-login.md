@@ -1,16 +1,16 @@
-# ƒƒOƒCƒ“
+# ãƒ­ã‚°ã‚¤ãƒ³
 * url
   ```
   /login
   ```
   
-* ƒƒ\ƒbƒh
+* ãƒ¡ã‚½ãƒƒãƒ‰
   * post
 
-* ƒŠƒNƒGƒXƒgƒwƒbƒ_
-  * •s—vH
+* ãƒªã‚¯ã‚¨ã‚¹ãƒˆãƒ˜ãƒƒãƒ€
+  * ä¸è¦ï¼Ÿ
   
-* ƒŠƒNƒGƒXƒgBODY
+* ãƒªã‚¯ã‚¨ã‚¹ãƒˆBODY
   * json
   ```json
   {
@@ -21,11 +21,11 @@
   }
   ```
 
-* ƒŒƒXƒ|ƒ“ƒX
-  * Set-Cookie: dtirest_session={”FØƒg[ƒNƒ“} 
+* ãƒ¬ã‚¹ãƒãƒ³ã‚¹
+  * Set-Cookie: dtirest_session={èªè¨¼ãƒˆãƒ¼ã‚¯ãƒ³} 
 
-* ƒXƒe[ƒ^ƒX  
-  |ƒR[ƒh|ƒXƒe[ƒ^ƒX|
+* ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹  
+  |ã‚³ãƒ¼ãƒ‰|ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹|
   |---|---|
   |200|OK|
   |500|NG|
