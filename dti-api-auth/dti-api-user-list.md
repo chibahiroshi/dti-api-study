@@ -10,7 +10,7 @@
   * {@@トークン@@}
 
 * リクエストBODY
-  * json (配列)
+  * json
   ```json
   {
       "search": {
@@ -25,7 +25,7 @@
   }
   ```
 * レスポンス
-  * json
+  * json　(配列)
   ```json
     {
         "users": [
